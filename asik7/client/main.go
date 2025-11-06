@@ -2,8 +2,8 @@ package main
 
 import (
 	"asik7/pricing/notify"
-	"asik7/pricing/notify/observer"
-	"asik7/pricing/notify/subject"
+	"asik7/pricing/notify/concrete/observer"
+	"asik7/pricing/notify/concrete/subject"
 )
 
 func main() {
